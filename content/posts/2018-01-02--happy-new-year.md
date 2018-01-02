@@ -1,9 +1,9 @@
 ---
-title: Happy New Year
-subTitle: A quick round up of photos from 2017
+title: Happy New Year!
+subTitle: New website for 2018! A quick round up of photos from 2017 and a look ahead for what is to come in 2018
 date: "2018-01-02"
 path: "/happy-new-year/"
-cover: NIC_1353.jpg
+cover: images/NIC_1353.jpg
 ---
 
 I hope you all had a fabulous Christmas and New Years Eve? We certainly had a great time and now I am eager to get my teeth into the new year and to eat no more chocolate at least until Easter!!
@@ -21,7 +21,7 @@ During the Autumn of 2017, Tina and I visited the Vyne in Hampshire which is clo
 
 It was a real treat because we were able to see the rooftop of the building in such great detail, it was truly fascinating. You could see the layers of history being taken apart for the installation of fire protection and some repair work. In the photo below you can see where they have removed the old tiles, to expose the original beams of the property.
 
-![The Vyne Rooftop](./NIC_1353.jpg)
+![The Vyne Rooftop](images/NIC_1353.jpg)
 
 ## Corfu, Kassiopi
 ### The Greek Churchyard
@@ -32,7 +32,7 @@ Corfu was lovely, I loved it and want to return as soon as we possibly can. We s
 
 This Church was simple in style and we never went inside but you could cut through the yard to reach another street. The light was spot on for this shot, I especially loved the gentle backlighting on the foreground vine. It cast such delicate shadows.
 
-![The Greek Churchyard](./NIC_1194.jpg)
+![The Greek Churchyard](images/NIC_1194.jpg)
 
 ### The view of Albania
 
@@ -40,7 +40,7 @@ We stayed at a stunning villa in Kalami with a view that we shall never forget, 
 
 We often got up early and in the case of this shot, it was just before 6am. I made use of my Gorillapod and a couple of ND grad filters to capture this scene whilst supping on a strong local coffee. Yes, this was taken from the pool terrace of the Villa, not bad hey?!
 
-![Albanian Sunset](./NIC_0947.jpg)
+![Albanian Sunset](images/NIC_0947.jpg)
 
 ### The view of Kalami
 
@@ -50,20 +50,20 @@ A little bit of history for you:
 
 The houses just at the base of the little headland that is sticking out were the home of the Durrell family back in the 1930's and was made popular in the novel written by Gerald Durrell, "My family and other animals". One of the buildings is called the "White House" and belonged to the highly successful writer Lawrence Durrell. It is now a holiday rental property and restaurant. We ate there a couple of times and whilst not the cheapest of places to eat, the food is very good. I had a "Stifado" there which is a game based dish comprising of venison stew, onions, red wine (lots) and cinnamon.
 
-![Kalami awakens](./NIC_0961.jpg)
+![Kalami awakens](images/NIC_0961.jpg)
 
 ### Old Perithia
 
 I am going to come back to write about Old Perithia in an article of it's own as it is such a fascinaing place. To give you a quick introduction, it is high in the mountains of Corfu, miles away from anywhere and is deserted. Having said that people are starting to restore the old town to make it inhabitable again. There are a couple of places to eat and drink there but otherwise, you step back in time to another era and it is quite a magical place.
 
-![Old Perithia](./NIC_1146.jpg)
+![Old Perithia](images/NIC_1146.jpg)
 
 ### Corfu Town
 
 Corfu Town has so much to offer, that I feel as if we could stay there a week some time in the future to explore every nook and cranny. We visited twice and it is a lively place with hundreds of shops. Great place for leather products, I bought a very nice belt that I wear all of the time and Tina found a really funky handbag there. I am sure both the belt and the bag will last us for years, their quality is excellent.
 
-![The old shop](./NIC_1034.jpg)
+![The old shop](images/NIC_1034.jpg)
 
-![Tina walking down a street in Corfu town](./NIC_0991.jpg)
+![Tina walking down a street in Corfu town](images/NIC_0991.jpg)
 
-![Fish market in Corfu town](./NIC_0971.jpg)
+![Fish market in Corfu town](images/NIC_0971.jpg)

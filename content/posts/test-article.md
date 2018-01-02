@@ -2,7 +2,8 @@
 title: Test Article
 subTitle: Overcoming an issue
 date: '2018-01-02'
-cover: /images/uploads/who-do-you-think-you-are.png
+cover: images/who-do-you-think-you-are.png
+path: '/test-article/'
 ---
 
 I hope you all had a fabulous Christmas and New Years Eve? We certainly had a great time and now I am eager to get my teeth into the new year and to eat no more chocolate at least until Easter!!
