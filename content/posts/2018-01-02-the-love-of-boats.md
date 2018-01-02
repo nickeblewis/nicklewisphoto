@@ -14,3 +14,9 @@ Roll forward to the current day, I am often exploring places and the coast alway
 This delightful little place just had me hooked but time was limited because, the sun was already too high and then a boat full of tourists came in. Then before I knew it, the little harbour was smothered with people who there for about 5 minutes and then vanished!
 
 ![The boats of Kaloura](images/nic_0934.jpg)
+
+## Somewhere in Dorset
+
+I honestly cannot remember where I came across this boat, I think it was Poole Harbour in Dorset, I didn't caption the file, which was somewhat clumsy of me!
+
+![The old boat](/images/229264_10150193412883041_8176854_n.jpg)
