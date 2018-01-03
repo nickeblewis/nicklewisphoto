@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Author from "./Author/Author";
 const config = require("../../utils/siteConfig");
+import Disqus from "../Disqus/Disqus";
 
 const Wrapper = styled.article`
   max-width: ${props => props.theme.post.sizes.maxWidth};
@@ -202,6 +203,7 @@ const Article = ({ post }) => {
         <Author />
         <Copyright>{config.copyright}</Copyright>
       </Footer>
+      <Disqus postNode={post} />
     </Wrapper>
   );
 };

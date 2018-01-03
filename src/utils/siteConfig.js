@@ -22,5 +22,6 @@ module.exports = {
   authorDescription: `Freelance photographer, web developer and writer`,
   // texts
   copyright:
-    "Copyright Nick Lewis 2018"
+    "Copyright Nick Lewis 2018",
+  disqusShortname: "nick-lewis-photography"
 };

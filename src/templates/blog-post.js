@@ -7,6 +7,7 @@ import Seo from "../components/Other/Seo";
 import Author from "../components/Article/Author/Author";
 import Article from "../components/Article/Article";
 
+
 const wrapperShowUp = keyframes`
   0% {
     opacity: 0.00001;
