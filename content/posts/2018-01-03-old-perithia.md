@@ -46,3 +46,13 @@ Whilst we sat in a cafe drinking coffee I watched in amazement as someone drove 
 ![Old ruins](images/NIC_1108.jpg)
 
 ![For sale](images/NIC_1104.jpg)
+
+## In summary
+
+We travelled to Corfu in September 2017 and it was still very warm albeit no longer as hot as it had been in the previous months of the summer. So we were able to walk around quite comfortably but the strength of the sun and the thinner air in locations like this can effect some people, I recommend taking water with you and to wear a hat! Not to mention sun block!
+
+You can find out more about Old Perithia via the following links:
+
+- [Why Corfu's ghost town is the island's best kept secret](http://www.independent.co.uk/travel/europe/old-perithia-corfu-abandoned-village-ghost-town-greece-off-radar-secret-travel-a7955811.html)
+- [TripAdvisor](https://www.tripadvisor.co.uk/Attraction_Review-g189458-d2294853-Reviews-Old_Perithia-Corfu_Ionian_Islands.html)
+- [Official site](http://www.old-perithia.com/)
