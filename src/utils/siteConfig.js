@@ -16,7 +16,7 @@ module.exports = {
   manifestThemeColor: colors.firstLight,
   manifestDisplay: "standalone",
   // analytics
-  analyticsTrackingId: "UA-110088221-2",
+  analyticsTrackingId: "UA-159000-25",
   // author note
   authorName: "Nick Lewis",
   authorDescription: `Freelance photographer, web developer and writer`,
