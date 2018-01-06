@@ -74,6 +74,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        path
         subTitle
         date(formatString: "MMMM DD, YYYY")
         cover {
