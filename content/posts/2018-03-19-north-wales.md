@@ -1,6 +1,6 @@
 ---
 title: North Wales from Conwy to Beaumaris
-subTitle: Over the weekend we travelled up to North Wales to take a recce between Oswestry on the border with England and Beaumaris in Anglesey. 
+subTitle: Over the weekend we travelled up to North Wales to take a recce between Oswestry and Beaumaris in Anglesey. Taking in a number of places along the way.
 path: /north-wales-conwy-beaumaris/
 date: 2018-03-19
 cover: images/NIC_1416-3.jpg
@@ -38,5 +38,14 @@ Afterwards we travelled back onto the mainland and drove into the mountains. It 
 
 More photography planned for the Summer in the Snowdonia area.
 
+##Footnote
 
+We were mostly in and out of the car for this trip, so I took quite a few photos on my phone and shared those to Instagram if you are interested in seeing those? We stopped at Llangollen on the way across to Snowdonia and there is a lot to see and do there. Here are two web links of interest.
+
+* [Horse drawn boats](http://menaibridges.co.uk/)
+* [Llangollen Railway](http://llangollen-railway.co.uk/)
+
+I am [@nickeblewis](https://www.instagram.com/nickeblewis/) on Instagram, feel free to follow me there :-)
+
+You can also follow my antics via my Facebook page [Nick Lewis Photography](https://www.facebook.com/nicklewisphotography/)
 
