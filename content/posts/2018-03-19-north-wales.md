@@ -1,12 +1,14 @@
 ---
 title: North Wales from Conwy to Beaumaris
-subTitle: Over the weekend we travelled up to North Wales to take a recce between Oswestry and Beaumaris in Anglesey. Taking in a number of places along the way.
+subTitle: Over the weekend we travelled up to North Wales to take a recce between Conwy and Beaumaris in Anglesey. Taking in a number of places along the way.
 path: /north-wales-conwy-beaumaris/
 date: 2018-03-19
 cover: images/NIC_1416-3.jpg
 ---
 
 My Wife and our friends are all involved with the local Scout Group here in Farnborough and every year they take them on a summer camp and have been to various locations. This year they will be camping in Snowdonia. So we (several of us) decided to book a weekend up there towards the end of last year which just so happened to be yesterday!
+
+We decided to stay in Oswestry on the borders of England and Wales, so that we could travel along the A5 into Snowdonia, to visit some of the places we had read about online beforehand. Sometimes you just have to see them for yourselves, to get a feel for places and to see what else we could find. Some of our friends had never been to North Wales before. So it turned out to be a real eye opener and the people we me met were so helpful. I think some good discounts were negotiated on bookings, especially whilst diaries are still in need of filling for the summer season!
 
 The weather was very interesting with a mixture of wind, snow, hail, brilliant sunshine but mostly it was curiously dry.
 
