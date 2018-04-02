@@ -8,7 +8,8 @@ module.exports = {
   light: "#f3f3f3",
   middle: "#666666",
   dark: "#333333",
-  superDark: "#111111"
+  superDark: "#111111",
+  veryDark: "#000000"
 };
 
 // Great source of colours at https://coolors.co/331832-d81e5b-f0544f-7f8a87-fdf0d5

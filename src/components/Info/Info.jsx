@@ -80,7 +80,7 @@ const CloseBtn = styled.button`
   width: 64px;
   height: 64px;
   position: relative;
-  margin: 1em 0 0 -0.5em;
+  margin: 1em 0 1.5em -0.5em;
 
   > span {
     background: ${props => props.theme.info.backgrounds.btn};
@@ -109,6 +109,11 @@ const Info = props => (
     navigatorIsAside={props.navigatorIsAside}
   >
     <Content>
+      <CloseBtn onClick={props.btnOnClick} aria-label="Close">
+        <span>
+          <SVGelem svg={ICONS.CLOSE} />
+        </span>
+      </CloseBtn>
       <Logo>
         <SVGelem svg={LOGOS.NICK} />
       </Logo>
@@ -123,11 +128,12 @@ const Info = props => (
           @nicklewis
         </a>
       </p>
-      <CloseBtn onClick={props.btnOnClick} aria-label="Close">
-        <span>
-          <SVGelem svg={ICONS.CLOSE} />
-        </span>
-      </CloseBtn>
+      <p>
+        I have worked with the web and photography for many years and now work as a full-time 
+        freelance web developer and I incorporate photography wherever I can. Writing is something 
+        I love doing too and I hope you enjoy my frequent blog articles that I share through this site!
+      </p>
+      <iframe src="https://landing.mailerlite.com/webforms/landing/i5g4n6"></iframe>
     </Content>
   </Wrapper>
 );

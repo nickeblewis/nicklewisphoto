@@ -72,13 +72,13 @@ const theme = {
   },
   info: {
     colors: {
-      text: colors.firstDark,
+      text: colors.bright,
       link: colors.firstDark,
       linkHover: colors.first,
       btn: colors.bright
     },
     backgrounds: {
-      wrapper: colors.firstLight,
+      wrapper: colors.veryDark,
       btn: colors.accent
     },
     sizes: {

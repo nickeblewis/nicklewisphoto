@@ -25,3 +25,5 @@ Never mind, I went on the search for some pictures instead despite the light sti
 ![The fountain starts flowing again](NIC_1429.jpg)
 
 **No more ice** - Two weeks ago we observed frozen rivers up in North Wales and that seems to have been and gone, we hope now for better weather but the forecast seems to tell a different story. 
+
+Feel free to sign up to my [new email newsletter via Mailer Lite](https://landing.mailerlite.com/webforms/landing/i5g4n6)
